@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.github.r00tlol.autoclick.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;
